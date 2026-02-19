@@ -6,8 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/lab3" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/lab4" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lab5" isTestSource="true" />
     </content>
-    <orderEntry type="jdk" jdkName="openjdk-25 (2)" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
