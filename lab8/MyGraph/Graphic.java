@@ -41,6 +41,7 @@ public class Graphic extends JFrame {
             case 5: new Quintic("y = x^5"); break;
             case 6: new Sinus("y = sin(x)"); break;
             case 7: new Cosinus("y = cos(x-1)+|x|"); break;
+            case 8: new Rational("y = (x+3)/(x-2)"); break;
             case 9: new Rational1("y = (x+3)/(x-2)"); break;
             case 10: new Rational2("y = 3+2/x+3/x^2"); break;
             case 11: new Rational3("y = 3-2/x-3/x^2"); break;
